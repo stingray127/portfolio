@@ -12,7 +12,7 @@ ECE 298 Instrumentation and Prototyping
 - Assembled finished PCB using SMD components and reflow soldering techniques
 - Implemented functions such as travel distance measurement, user input via keypad, and accurate instantaneous speed calculation in C through Code Composer Studio
 
-<img src="img/298Board.jpg" alt="drawing" height="300"/> 
+<img src="img/298Board.jpg" alt="drawing" height="400"/> 
 
 ## Boston Children's Hospital
 
@@ -32,4 +32,4 @@ I also managed to squeeze in some improvements. A 30% board footprint reduction 
 
 I received the boards during week 6 of my internship, and assembled them. There was an issue that was rectified, but I was able to connect the robot to the board and perform all functions.
 
-<img src="img/pcb.png" alt="drawing" height="300"/> 
+<img src="img/pcb.png" alt="drawing" height="400"/> 

@@ -16,21 +16,21 @@ Macropad v1
 - Designed in OpenSCAD
 - Wristrest is generated using Bezier Surfaces
 
-<img src="img/v1.jpg" alt="drawing" height="300"/> 
+<img src="img/v1.jpg" alt="drawing" height="400"/> 
 
 Dactyl Manuform
 
 - Printed and assembled split hand wired mechanical keyboard, flashed firmware using QMK
 - Model is generated online, I just printed it and put it together
 
-<img src="img/top.jpg" alt="drawing" height="300"/> 
+<img src="img/top.jpg" alt="drawing" height="400"/> 
 
 Handwire Hotswap Sockets
 
 - Developed solderless hand wire key switch matrix system for mechanical keyboards
 - See github.com/stingray127/handwirehotswap for more details
 
-<img src="img/bottom.jpg" alt="drawing" height="300"/> 
+<img src="img/bottom.jpg" alt="drawing" height="400"/> 
 
 ### Miscellaneous 
 
@@ -38,23 +38,23 @@ Monitor Stand
 
 CAD Model                  |  Result
 :-------------------------:|:-------------------------:
-<img src="img/riser_cad.png" alt="drawing" height="300"/> | <img src="img/riser.jpg" alt="drawing" height="300"/>
+<img src="img/riser_cad.png" alt="drawing" height="400"/> | <img src="img/riser.jpg" alt="drawing" height="400"/>
 
 Desk Height Raiser
 
 CAD Model                  |  Result
 :-------------------------:|:-------------------------:
-<img src="img/foot_cad.png" alt="drawing" height="300"/> | <img src="img/foot.jpg" alt="drawing" height="300"/>
+<img src="img/foot_cad.png" alt="drawing" height="400"/> | <img src="img/foot.jpg" alt="drawing" height="400"/>
 
 Oculus Quest MaulSaber
 
-<img src="img/maulsaber.jpg" alt="drawing" height="300"/> 
+<img src="img/maulsaber.jpg" alt="drawing" height="400"/> 
 
 Cat Laser Toy Tripod Adapter
 
 CAD Model                  |  Result
 :-------------------------:|:-------------------------:
-<img src="img/laser_cad.png" alt="drawing" height="300"/> | Cat broke this and I don't have a picture whoops
+<img src="img/laser_cad.png" alt="drawing" height="400"/> | Cat broke this and I don't have a picture whoops
 
 ## FRC Team 604 Engineering Lead
 
@@ -66,7 +66,7 @@ CAD Model                  |  Result
 - Conducted field repairs and ad-hoc engineering solutions during competition seasons
 - Ranked in top 12 worldwide, after winning the [1st. place in Hopper Division in 2017](https://www.thebluealliance.com/team/604/2017)
 
-<img src="img/604_2017.jpg" alt="drawing" height="300"/> 
+<img src="img/604_2017.jpg" alt="drawing" height="400"/> 
 
 I was a primary mechanical designer for 3 years for my high school robotics team, and the lead mechanical designer for 2 years. In my last year on the team, we produced an internationally competitive robot, beating our competition through simple but focused mechanical design.
 
