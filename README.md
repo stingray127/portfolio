@@ -5,8 +5,7 @@ Hi, my name is Raymond Yang and I am a 4th year Computer Engineering student at 
 I have a bit of experience in 
 - 3D Modeling
 - 3D Printing
-- PCB Design
+- PCB and Mechanical Design
 - Electrical and Mechanical Manufacturing
-- Embedded Software Development
-- Fullstack Software Development
+- Embedded and Fullstack Software Development
 - Computer Hardware Design and Verification

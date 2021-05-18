@@ -6,14 +6,6 @@
 
 ## Personal Projects
 
-### Mechanical Keyboards
-
-The software side of mechanical keyboards is just extensive firmware configuration in QMK. I define the keyboard's physical layout, what pins on the MCU correspond to which rows and columns of the matrix, and set keycodes all using a text editor. Then, I compile and flash the firmware through the command line.
-
-Keymap design is also important in order to make a keyboard usable. In this instance, my keyboard halves are completely disconnected; the computer sees me using two completely separate keyboards. As a result, the keymap needs to have some changes to support this kind of usecase, like assigning Shift on the thumbs. This is my current keymap version, and I expect it to change in the near future.
-
-![](img/ErgodoxV3.png)
-
 ### Voice Controlled Lighting
 
 - Built voice controlled room lighting using Amazon Alexa, Node-Red, MQTT, and Python
@@ -25,6 +17,14 @@ Keymap design is also important in order to make a keyboard usable. In this inst
 System Diagram:
 
 ![](img/SystemDiagram.png)
+
+### Mechanical Keyboards
+
+The software side of mechanical keyboards is just extensive firmware configuration in QMK. I define the keyboard's physical layout, configure pinouts of the MCU based on which rows and columns of the matrix are in use, and set keycodes and layer organization, all using a text editor. Then I compile and flash the firmware through the command line.
+
+Keymap design is also important in order to make a keyboard usable. On my Dactyl, my keyboard halves are completely disconnected; the computer sees me using two completely separate keyboards. As a result, the keymap needs to have some changes to support this kind of usecase, like assigning Shift on the thumbs. This is my current keymap version, and I expect it to change in the near future.
+
+![](img/ErgodoxV3.png)
 
 ## Coursework
 

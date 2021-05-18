@@ -31,16 +31,6 @@ Oculus Quest MaulSaber
 
 Cat Laser Toy Tripod Adapter
 
-
-
-
-
-###
-
-
-
-
-
 ## FRC Team 604 Engineering Lead
 
 - Responsible for overall design and manufacturing of competition robots for 2015, 2016, and 2017
