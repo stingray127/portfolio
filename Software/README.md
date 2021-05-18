@@ -24,7 +24,7 @@ The software side of mechanical keyboards is just extensive firmware configurati
 
 Keymap design is also important in order to make a keyboard usable. On my Dactyl, my keyboard halves are completely disconnected; the computer sees me using two completely separate keyboards. As a result, the keymap needs to have some changes to support this kind of usecase, like assigning Shift on the thumbs. This is my current keymap version, and I expect it to change in the near future.
 
-![](img/ErgodoxV3.png)
+<img src="img/ErgodoxV3.png" alt="drawing" height="600"/> 
 
 ## Coursework
 

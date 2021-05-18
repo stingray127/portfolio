@@ -9,3 +9,5 @@ I have a bit of experience in
 - Electrical and Mechanical Manufacturing
 - Embedded and Fullstack Software Development
 - Computer Hardware Design and Verification
+
+Apologies if the image formatting is scuffed

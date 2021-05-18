@@ -12,14 +12,25 @@
 ### Mechanical Keyboards
 
 Macropad v1
+ 
+- Designed in OpenSCAD
+- Wristrest is generated using Bezier Surfaces
 
-Dactyl Manuform(s)
+<img src="img/v1.jpg" alt="drawing" height="300"/> 
+
+Dactyl Manuform
 
 - Printed and assembled split hand wired mechanical keyboard, flashed firmware using QMK
+- Model is generated online, I just printed it and put it together
+
+<img src="img/top.jpg" alt="drawing" height="300"/> 
 
 Handwire Hotswap Sockets
 
-- Developed solderless hand wire key switch matrix system for mechanical keyboards - see Github
+- Developed solderless hand wire key switch matrix system for mechanical keyboards
+- See github.com/stingray127/handwirehotswap for more details
+
+<img src="img/bottom.jpg" alt="drawing" height="300"/> 
 
 ### Miscellaneous 
 
@@ -53,36 +64,12 @@ CAD Model                  |  Result
 - Utilized Solidworks CAD Software to create a full digital design to facilitate manufacturing
 - Laid out and wired electronics and control systems of robots for all seasons
 - Conducted field repairs and ad-hoc engineering solutions during competition seasons
-- Ranked in top 12 worldwide, after winning the 1st. place in Hopper Division in 2017
+- Ranked in top 12 worldwide, after winning the [1st. place in Hopper Division in 2017](https://www.thebluealliance.com/team/604/2017)
 
+<img src="img/604_2017.jpg" alt="drawing" height="300"/> 
 
+I was a primary mechanical designer for 3 years for my high school robotics team, and the lead mechanical designer for 2 years. In my last year on the team, we produced an internationally competitive robot, beating our competition through simple but focused mechanical design.
 
+We modeled the entire robot, from gearboxes to screws, in large Solidworks assemblies. I can't say we used the best practices, but we did our best given our limited knowledge and 6 week build season.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+I tried to rely on in house techniques as much as possible. As such, the only precision machining we needed on the 2017 robot was the milled holes for drivetrain and climber bearings in our aluminum 2x1 tubing. Everything else was designed around our limited in house manufacturing capabilities, and it came together beautifully.
