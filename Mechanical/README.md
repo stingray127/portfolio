@@ -16,14 +16,16 @@ Macropad v1
 - Designed in OpenSCAD
 - Wristrest is generated using Bezier Surfaces
 
-<img src="img/v1.jpg" alt="drawing" height="400"/> 
+![](img/v1.jpg)
 
 Dactyl Manuform
 
 - Printed and assembled split hand wired mechanical keyboard, flashed firmware using QMK
-- Model is generated online, I just printed it and put it together
+- Keyboard body is generated online
+- Designed robust MCU adapter for keyboard body
 
-<img src="img/top.jpg" alt="drawing" height="400"/> 
+![](img/top.jpg)
+![](img/bottom.jpg)
 
 Handwire Hotswap Sockets
 
@@ -31,7 +33,7 @@ Handwire Hotswap Sockets
 - Gives handwire keyboard builders greater flexibility and futureproofing for their builds
 - See [github repo](www.github.com/stingray127/handwirehotswap) for more details
 
-<img src="img/bottom.jpg" alt="drawing" height="400"/> 
+![](img/HandwireHotSwap.jpg)
 
 ### Miscellaneous 
 
@@ -67,7 +69,7 @@ CAD Model                  |  Result
 - Conducted field repairs and ad-hoc engineering solutions during competition seasons
 - Ranked in top 12 worldwide, after winning the [1st. place in Hopper Division in 2017](https://www.thebluealliance.com/team/604/2017)
 
-<img src="img/604_2017.jpg" alt="drawing" height="400"/> 
+![](img/604_2017.jpg)
 
 I was a primary mechanical designer for 3 years for my high school robotics team, and the lead mechanical designer for 2 years. In my last year on the team, we produced an internationally competitive robot, beating our competition through simple but focused mechanical design.
 
