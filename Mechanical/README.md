@@ -25,11 +25,25 @@ Handwire Hotswap Sockets
 
 Monitor Stand
 
+CAD Model                  |  Result
+:-------------------------:|:-------------------------:
+<img src="img/riser_cad.png" alt="drawing" height="300"/> | <img src="img/riser.jpg" alt="drawing" height="300"/>
+
 Desk Height Raiser
+
+CAD Model                  |  Result
+:-------------------------:|:-------------------------:
+<img src="img/foot_cad.png" alt="drawing" height="300"/> | <img src="img/foot.jpg" alt="drawing" height="300"/>
 
 Oculus Quest MaulSaber
 
+<img src="img/maulsaber.jpg" alt="drawing" height="300"/> 
+
 Cat Laser Toy Tripod Adapter
+
+CAD Model                  |  Result
+:-------------------------:|:-------------------------:
+<img src="img/laser_cad.png" alt="drawing" height="300"/> | Cat broke this and I don't have a picture whoops
 
 ## FRC Team 604 Engineering Lead
 
