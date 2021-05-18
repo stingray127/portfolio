@@ -8,8 +8,11 @@
 ECE 298 Instrumentation and Prototyping
 - Designed and manufactured a Boosterpack expansion board for TI MSP430 with Diptrace
 - Developed feasibility model, schematic, and PCB layout, while documenting the process
+- Incorporated test points and power stability capacitors
 - Assembled finished PCB using SMD components and reflow soldering techniques
 - Implemented functions such as travel distance measurement, user input via keypad, and accurate instantaneous speed calculation in C through Code Composer Studio
+
+![](img/298Board.jpg)
 
 ## Boston Children's Hospital
 
@@ -25,4 +28,8 @@ They had a few of the boards, but they had lost the schematics and digital desig
 
 I had to identify part numbers, lookup datasheets, check pinouts, and follow PCB traces under a magnifier. I was able to identify the power, wireless, MCU, and sensor sections of the board, recreate the schematic and board layout in Eagle, and send out the design for fabrication, in 4 weeks. This was the first time I had touched anything related to PCB design.
 
-I also managed to squeeze in some improvements. A 30% board footprint reduction was achieved, a DPDT switch was integrated for the sensor in case it was soldered backwards, and screw in power terminals were added for robust operation.
+I also managed to squeeze in some improvements. A 30% board footprint reduction was achieved, a DPDT switch was integrated for the sensor in case it was soldered backwards, and screw in power terminals were added for more robust operation (the entire unit was to be strapped to a pig).
+
+I received the boards during week 6 of my internship, and assembled them. There was an issue that was rectified, but I was able to connect the robot to the board and perform all functions.
+
+![](img/pcb.png)
