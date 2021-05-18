@@ -1,23 +1,12 @@
 # Portfolio
 
-Hi, my name is Raymond Yang and I am a 4th year student at the University of Waterloo.
+Hi, my name is Raymond Yang and I am a 4th year Computer Engineering student at the University of Waterloo.
 
-This is a portfolio of my work, split amongst the 3 categories.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+I have a bit of experience in 
+- 3D Modeling
+- 3D Printing
+- PCB Design
+- Electrical and Mechanical Manufacturing
+- Embedded Software Development
+- Fullstack Software Development
+- Computer Hardware Design and Verification
