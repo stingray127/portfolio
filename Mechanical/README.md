@@ -28,7 +28,8 @@ Dactyl Manuform
 Handwire Hotswap Sockets
 
 - Developed solderless hand wire key switch matrix system for mechanical keyboards
-- See github.com/stingray127/handwirehotswap for more details
+- Gives handwire keyboard builders greater flexibility and futureproofing for their builds
+- See [github repo](www.github.com/stingray127/handwirehotswap) for more details
 
 <img src="img/bottom.jpg" alt="drawing" height="400"/> 
 
